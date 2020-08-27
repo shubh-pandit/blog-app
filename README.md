@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A Ruby on Rails based blogging web app with the following functionalities:
 
-Things you may want to cover:
+* Creating new articles
 
-* Ruby version
+* Editing already existing articles
 
-* System dependencies
+* Adding tags and images to an article
 
-* Configuration
+* Commenting on an article
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
+* Deleting articles/tags
 
 * ...
