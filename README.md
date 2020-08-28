@@ -12,4 +12,9 @@ A Ruby on Rails based blogging web app with the following functionalities:
 
 * Deleting articles/tags
 
-* ...
+* Register/Login feature
+
+* Restricted access for logged out users
+
+
+https://damp-reef-89623.herokuapp.com/
